@@ -1,7 +1,7 @@
 # LLama-Gita
 
 ### How to run
-- Download the model file from this link and place in LLama_Chat/client/models
+- Download the model file from this [link](https://drive.google.com/file/d/1CD-OdFQlX4_6HHQJ0U7pEOkDHlxGmmmk/view?usp=sharing) and place in LLama_Chat/client/models
 - Open the terminal with LLama_Chat/client as the current directory
 - Run ./start.sh
 
