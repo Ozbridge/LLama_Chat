@@ -5,6 +5,7 @@
 .vscode/
 .DS_Store
 
+client/
 build*/
 
 models/*
