@@ -14,7 +14,7 @@ prompt = f"{prompt} answer using quotes from the bhagvad gita"
 # Define the POST request payload
 payload = {
     "prompt": prompt,
-    "n_predict": 512
+    "n_predict": 128
 }
 
 # Create a button to trigger the API request
